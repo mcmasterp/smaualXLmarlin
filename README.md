@@ -1,3 +1,19 @@
+
+
+My custom marlin firmware for my i2 samuel XL whish is built to 150% size
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
